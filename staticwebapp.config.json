@@ -1,10 +1,5 @@
 {
   "platform": {
     "apiRuntime": "node:18"
-  },
-  "routes": [
-    {
-      "route": "/profile"
-    }
-  ]
+  }
 }
